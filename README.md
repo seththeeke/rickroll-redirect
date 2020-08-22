@@ -1,8 +1,8 @@
-# Welcome to your CDK TypeScript project!
+# Rickroll Redirect
 
-This is a blank project for TypeScript development with CDK.
+I claimed the s3 bucket with my name and redirect it to a rick roll.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+http://seththeeke.s3-website-us-east-1.amazonaws.com
 
 ## Useful commands
 
