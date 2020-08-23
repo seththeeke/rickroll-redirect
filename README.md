@@ -1,6 +1,6 @@
 # Rickroll Redirect
 
-I claimed the s3 bucket with my name and redirect it to a rick roll.
+I claimed the s3 bucket with my name and redirect it to a rick roll because why not.
 
 http://seththeeke.s3-website-us-east-1.amazonaws.com
 
